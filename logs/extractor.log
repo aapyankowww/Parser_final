@@ -1,0 +1,1393 @@
+2025-05-13 15:08:40 [INFO] === AGENT START ===
+2025-05-13 15:11:02 [INFO] === AGENT START ===
+2025-05-13 15:15:45 [INFO] === AGENT START ===
+2025-05-13 15:15:45 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:15:45 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:16:55 [INFO] === AGENT START ===
+2025-05-13 15:16:55 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:16:55 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:17:26 [INFO] === AGENT START ===
+2025-05-13 15:17:26 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:17:26 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:19:04 [INFO] === AGENT START ===
+2025-05-13 15:23:38 [INFO] === AGENT START ===
+2025-05-13 15:23:38 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:23:38 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:28:05 [INFO] === AGENT START ===
+2025-05-13 15:28:05 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:28:05 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:30:25 [INFO] === AGENT START ===
+2025-05-13 15:30:25 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:30:25 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:42:25 [INFO] === AGENT START ===
+2025-05-13 15:42:25 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:42:25 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:42:30 [INFO] === START Geely Coolray ===
+2025-05-13 15:45:45 [INFO] === AGENT START ===
+2025-05-13 15:45:45 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:45:45 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:45:45 [INFO] === START Geely Coolray ===
+2025-05-13 15:48:27 [INFO] Processed: Geely Coolray → links: 20, time: 161.61 s
+2025-05-13 15:48:27 [INFO] === END Geely Coolray ===
+2025-05-13 15:48:27 [INFO] === START Haval Jolion ===
+2025-05-13 15:50:08 [INFO] Processed: Haval Jolion → links: 20, time: 101.49 s
+2025-05-13 15:50:08 [INFO] === END Haval Jolion ===
+2025-05-13 15:50:08 [INFO] === START Dongfeng Captain-T S1 ===
+2025-05-13 15:50:24 [INFO] Processed: Dongfeng Captain-T S1 → links: 0, time: 15.99 s
+2025-05-13 15:50:24 [INFO] === END Dongfeng Captain-T S1 ===
+2025-05-13 15:50:24 [INFO] === START JAC N-56 ===
+2025-05-13 15:50:50 [INFO] Processed: JAC N-56 → links: 20, time: 25.91 s
+2025-05-13 15:50:50 [INFO] === END JAC N-56 ===
+2025-05-13 15:50:50 [INFO] === START Foton Toano ===
+2025-05-13 15:51:39 [INFO] Processed: Foton Toano → links: 20, time: 48.28 s
+2025-05-13 15:51:39 [INFO] === END Foton Toano ===
+2025-05-13 15:51:39 [INFO] === START JAC N-120 ===
+2025-05-13 15:52:15 [INFO] Processed: JAC N-120 → links: 20, time: 36.86 s
+2025-05-13 15:52:15 [INFO] === END JAC N-120 ===
+2025-05-13 15:52:15 [INFO] === START JAC N-350 ===
+2025-05-13 15:52:31 [INFO] Processed: JAC N-350 → links: 0, time: 15.95 s
+2025-05-13 15:52:31 [INFO] === END JAC N-350 ===
+2025-05-13 15:52:31 [INFO] === START Chery Tiggo 7 Pro ===
+2025-05-13 15:55:06 [INFO] Processed: Chery Tiggo 7 Pro → links: 20, time: 154.53 s
+2025-05-13 15:55:06 [INFO] === END Chery Tiggo 7 Pro ===
+2025-05-13 15:55:06 [INFO] === START Chery Tiggo 8 Pro ===
+2025-05-13 15:55:16 [INFO] === AGENT START ===
+2025-05-13 15:55:16 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:55:16 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:55:16 [INFO] === START Geely Coolray ===
+2025-05-13 15:56:55 [INFO] Processed: Chery Tiggo 8 Pro → links: 20, time: 109.07 s
+2025-05-13 15:56:55 [INFO] === END Chery Tiggo 8 Pro ===
+2025-05-13 15:56:55 [INFO] === START Omoda C5 ===
+2025-05-13 15:57:07 [INFO] === AGENT START ===
+2025-05-13 15:57:07 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 15:57:07 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 15:57:08 [INFO] === START Geely Coolray ===
+2025-05-13 15:57:12 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-05-13 15:57:24 [INFO] Processed: Omoda C5 → links: 20, time: 28.86 s
+2025-05-13 15:57:24 [INFO] === END Omoda C5 ===
+2025-05-13 15:57:24 [INFO] === START Omoda S5 EV ===
+2025-05-13 15:57:34 [INFO] Processed: Omoda S5 EV → links: 0, time: 9.75 s
+2025-05-13 15:57:34 [INFO] === END Omoda S5 EV ===
+2025-05-13 15:57:34 [INFO] === START Omoda S5 GT ===
+2025-05-13 15:59:13 [INFO] Processed: Omoda S5 GT → links: 20, time: 99.63 s
+2025-05-13 15:59:13 [INFO] === END Omoda S5 GT ===
+2025-05-13 15:59:13 [INFO] === START Omoda S5 ===
+2025-05-13 15:59:55 [INFO] Processed: Omoda S5 → links: 20, time: 42.08 s
+2025-05-13 15:59:55 [INFO] === END Omoda S5 ===
+2025-05-13 15:59:55 [INFO] === START Omoda S5 GT EV ===
+2025-05-13 16:00:58 [INFO] === AGENT START ===
+2025-05-13 16:00:58 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:00:58 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:00:59 [INFO] === START Geely Coolray ===
+2025-05-13 16:01:02 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-05-13 16:01:10 [INFO] Processed: Omoda S5 GT EV → links: 0, time: 74.93 s
+2025-05-13 16:01:10 [INFO] === END Omoda S5 GT EV ===
+2025-05-13 16:01:10 [INFO] === START Omoda C5 ===
+2025-05-13 16:01:43 [INFO] Processed: Omoda C5 → links: 20, time: 32.86 s
+2025-05-13 16:01:43 [INFO] === END Omoda C5 ===
+2025-05-13 16:01:43 [INFO] === START Omoda C5 EV ===
+2025-05-13 16:02:07 [INFO] Processed: Omoda C5 EV → links: 0, time: 23.86 s
+2025-05-13 16:02:07 [INFO] === END Omoda C5 EV ===
+2025-05-13 16:02:07 [INFO] === START Exeed LX ===
+2025-05-13 16:04:38 [INFO] Processed: Exeed LX → links: 20, time: 150.86 s
+2025-05-13 16:04:38 [INFO] === END Exeed LX ===
+2025-05-13 16:04:38 [INFO] === START Geely Atlas ===
+2025-05-13 16:06:16 [INFO] Processed: Geely Atlas → links: 20, time: 97.83 s
+2025-05-13 16:06:16 [INFO] === END Geely Atlas ===
+2025-05-13 16:06:16 [INFO] === START Geely Monjaro ===
+2025-05-13 16:06:49 [INFO] Processed: Geely Monjaro → links: 20, time: 33.20 s
+2025-05-13 16:06:49 [INFO] === END Geely Monjaro ===
+2025-05-13 16:06:49 [INFO] === START VOYAH Dream ===
+2025-05-13 16:07:22 [INFO] Processed: VOYAH Dream → links: 20, time: 33.49 s
+2025-05-13 16:07:22 [INFO] === END VOYAH Dream ===
+2025-05-13 16:07:22 [INFO] === START GAC M8 ===
+2025-05-13 16:07:53 [INFO] Processed: GAC M8 → links: 20, time: 30.36 s
+2025-05-13 16:07:53 [INFO] === END GAC M8 ===
+2025-05-13 16:07:53 [INFO] === START Hongqi HQ9 ===
+2025-05-13 16:08:23 [INFO] Processed: Hongqi HQ9 → links: 20, time: 30.07 s
+2025-05-13 16:08:23 [INFO] === END Hongqi HQ9 ===
+2025-05-13 16:08:23 [INFO] === START Maxus V80 ===
+2025-05-13 16:09:42 [INFO] === AGENT START ===
+2025-05-13 16:09:42 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:09:42 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:09:42 [INFO] === START Geely Coolray ===
+2025-05-13 16:09:43 [INFO] Processed: Maxus V80 → links: 0, time: 79.98 s
+2025-05-13 16:09:43 [INFO] === END Maxus V80 ===
+2025-05-13 16:09:43 [INFO] === START Maxus V90 ===
+2025-05-13 16:10:16 [INFO] Processed: Maxus V90 → links: 20, time: 33.26 s
+2025-05-13 16:10:16 [INFO] === END Maxus V90 ===
+2025-05-13 16:10:16 [INFO] === START Maxus G10 ===
+2025-05-13 16:10:49 [INFO] Processed: Maxus G10 → links: 20, time: 32.67 s
+2025-05-13 16:10:49 [INFO] === END Maxus G10 ===
+2025-05-13 16:10:49 [INFO] === START Dongfeng Captain-T S1 ===
+2025-05-13 16:11:54 [INFO] Processed: Dongfeng Captain-T S1 → links: 20, time: 65.34 s
+2025-05-13 16:11:54 [INFO] === END Dongfeng Captain-T S1 ===
+2025-05-13 16:11:54 [INFO] === START JAC N-56 ===
+2025-05-13 16:12:27 [INFO] === AGENT START ===
+2025-05-13 16:12:38 [INFO] === AGENT START ===
+2025-05-13 16:13:13 [INFO] Processed: JAC N-56 → links: 0, time: 79.08 s
+2025-05-13 16:13:13 [INFO] === END JAC N-56 ===
+2025-05-13 16:13:13 [INFO] === START Dongfeng K-Series ===
+2025-05-13 16:13:42 [INFO] Processed: Dongfeng K-Series → links: 20, time: 28.88 s
+2025-05-13 16:13:42 [INFO] === END Dongfeng K-Series ===
+2025-05-13 16:13:42 [INFO] === START Foton Toano ===
+2025-05-13 16:13:47 [INFO] === AGENT START ===
+2025-05-13 16:13:47 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:13:47 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:13:47 [INFO] === START Geely Coolray ===
+2025-05-13 16:14:11 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-05-13 16:14:13 [INFO] === AGENT START ===
+2025-05-13 16:14:13 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:14:13 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:14:13 [INFO] === START Geely Coolray ===
+2025-05-13 16:14:20 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-05-13 16:14:26 [INFO] === AGENT START ===
+2025-05-13 16:14:26 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:14:26 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:14:27 [INFO] === START Geely Coolray ===
+2025-05-13 16:14:36 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-05-13 16:18:15 [INFO] Processed: Foton Toano → links: 4, time: 273.15 s
+2025-05-13 16:18:15 [INFO] === END Foton Toano ===
+2025-05-13 16:18:15 [INFO] === START JAC N-90 ===
+2025-05-13 16:18:43 [INFO] Processed: JAC N-90 → links: 20, time: 27.38 s
+2025-05-13 16:18:43 [INFO] === END JAC N-90 ===
+2025-05-13 16:18:43 [INFO] === START JAC N-120 ===
+2025-05-13 16:20:48 [INFO] Processed: JAC N-120 → links: 20, time: 125.83 s
+2025-05-13 16:20:48 [INFO] === END JAC N-120 ===
+2025-05-13 16:20:48 [INFO] === START SITRAK C7H ===
+2025-05-13 16:21:21 [INFO] Processed: SITRAK C7H → links: 20, time: 32.29 s
+2025-05-13 16:21:21 [INFO] === END SITRAK C7H ===
+2025-05-13 16:21:21 [INFO] === START Shacman SX3258 ===
+2025-05-13 16:22:02 [INFO] Processed: Shacman SX3258 → links: 20, time: 41.09 s
+2025-05-13 16:22:02 [INFO] === END Shacman SX3258 ===
+2025-05-13 16:22:02 [INFO] === START Shacman SX3318 ===
+2025-05-13 16:23:12 [INFO] Processed: Shacman SX3318 → links: 0, time: 70.14 s
+2025-05-13 16:23:12 [INFO] === END Shacman SX3318 ===
+2025-05-13 16:23:12 [INFO] === START JAC N-350 ===
+2025-05-13 16:26:21 [INFO] Processed: JAC N-350 → links: 10, time: 188.70 s
+2025-05-13 16:26:21 [INFO] === END JAC N-350 ===
+2025-05-13 16:26:21 [INFO] === START Howo 3327 ===
+2025-05-13 16:28:00 [INFO] Processed: Howo 3327 → links: 20, time: 99.08 s
+2025-05-13 16:28:00 [INFO] === END Howo 3327 ===
+2025-05-13 16:28:00 [INFO] === START Howo 3407 ===
+2025-05-13 16:28:49 [INFO] === AGENT START ===
+2025-05-13 16:28:49 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:28:49 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:28:50 [INFO] === START Geely Coolray ===
+2025-05-13 16:52:25 [INFO] === AGENT START ===
+2025-05-13 16:52:25 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:52:25 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:52:29 [INFO] === START Geely Coolray ===
+2025-05-13 16:52:36 [INFO] === AGENT START ===
+2025-05-13 16:52:36 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:52:36 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:52:36 [INFO] === START Geely Coolray ===
+2025-05-13 16:53:06 [INFO] === AGENT START ===
+2025-05-13 16:53:06 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:53:06 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:53:07 [INFO] === START Geely Coolray ===
+2025-05-13 16:53:40 [INFO] === AGENT START ===
+2025-05-13 16:53:40 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:53:40 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:53:40 [INFO] === START Geely Coolray ===
+2025-05-13 16:53:56 [INFO] === AGENT START ===
+2025-05-13 16:53:56 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:53:56 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:53:56 [INFO] === START Geely Coolray ===
+2025-05-13 16:54:27 [INFO] === AGENT START ===
+2025-05-13 16:54:27 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 16:54:27 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 16:54:28 [INFO] === START Geely Coolray ===
+2025-05-13 16:54:30 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-05-13 17:10:00 [INFO] Anonymized telemetry enabled. See https://docs.browser-use.com/development/telemetry for more information.
+2025-05-13 17:10:01 [INFO] === AGENT START ===
+2025-05-13 17:10:01 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 17:10:01 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 17:10:02 [INFO] === START Geely Coolray ===
+2025-05-13 17:10:45 [INFO] Anonymized telemetry enabled. See https://docs.browser-use.com/development/telemetry for more information.
+2025-05-13 17:10:47 [INFO] === AGENT START ===
+2025-05-13 17:10:47 [INFO] Загружено 25 авто-моделей и 18 грузовых
+2025-05-13 17:10:47 [INFO] 
++----------+--------------+----------+
+|  brand   |    model     |   status |
+|----------+--------------+----------|
+|  Geely   |   Coolray    |       10 |
+|  Haval   |    Jolion    |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |    N-120     |       10 |
+|   JAC    |    N-350     |       10 |
+|  Chery   | Tiggo 7 Pro  |       10 |
+|  Chery   | Tiggo 8 Pro  |       10 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    S5 EV     |        0 |
+|  Omoda   |    S5 GT     |       10 |
+|  Omoda   |      S5      |       10 |
+|  Omoda   |   S5 GT EV   |        0 |
+|  Omoda   |      C5      |       10 |
+|  Omoda   |    C5 EV     |        0 |
+|  Exeed   |      LX      |       10 |
+|  Geely   |    Atlas     |       10 |
+|  Geely   |   Monjaro    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
+|  Maxus   |     G10      |       10 |
+| Dongfeng | Captain-T S1 |        0 |
+|   JAC    |     N-56     |       10 |
+| Dongfeng |   K-Series   |       10 |
+|  Foton   |    Toano     |       10 |
+|   JAC    |     N-90     |       10 |
+|   JAC    |    N-120     |       10 |
+|  SITRAK  |     C7H      |       10 |
+| Shacman  |    SX3258    |       10 |
+| Shacman  |    SX3318    |       10 |
+|   JAC    |    N-350     |       10 |
+|   Howo   |     3327     |       10 |
+|   Howo   |     3407     |       10 |
+|   FAW    |    CA3250    |       10 |
+|  VOYAH   |    Dream     |        0 |
+|   GAC    |      M8      |        0 |
+|  Hongqi  |     HQ9      |        0 |
+|  Maxus   |     V80      |       10 |
+|  Maxus   |     V90      |       10 |
++----------+--------------+----------+
+2025-05-13 17:10:47 [INFO] === START Geely Coolray ===
+2025-05-13 17:11:13 [INFO] Processed: Geely Coolray → links: 2, time: 25.91 s
+2025-05-13 17:11:13 [INFO] === END Geely Coolray ===
+2025-05-13 17:11:13 [INFO] === START Haval Jolion ===
+2025-05-13 17:11:38 [INFO] Processed: Haval Jolion → links: 2, time: 25.33 s
+2025-05-13 17:11:38 [INFO] === END Haval Jolion ===
+2025-05-13 17:11:38 [INFO] === START Dongfeng Captain-T S1 ===
+2025-05-13 17:11:41 [INFO] Processed: Dongfeng Captain-T S1 → links: 0, time: 2.52 s
+2025-05-13 17:11:41 [INFO] === END Dongfeng Captain-T S1 ===
+2025-05-13 17:11:41 [INFO] === START JAC N-56 ===
+2025-05-13 17:14:31 [INFO] Processed: JAC N-56 → links: 0, time: 170.04 s
+2025-05-13 17:14:31 [INFO] === END JAC N-56 ===
+2025-05-13 17:14:31 [INFO] === START Foton Toano ===
+2025-05-13 17:14:58 [INFO] Processed: Foton Toano → links: 2, time: 26.89 s
+2025-05-13 17:14:58 [INFO] === END Foton Toano ===
+2025-05-13 17:14:58 [INFO] === START JAC N-120 ===
+2025-05-13 17:17:43 [INFO] Processed: JAC N-120 → links: 0, time: 165.33 s
+2025-05-13 17:17:43 [INFO] === END JAC N-120 ===
+2025-05-13 17:17:43 [INFO] === START JAC N-350 ===
+2025-05-13 17:17:45 [INFO] Processed: JAC N-350 → links: 0, time: 2.25 s
+2025-05-13 17:17:45 [INFO] === END JAC N-350 ===
+2025-05-13 17:17:45 [INFO] === START Chery Tiggo 7 Pro ===
+2025-05-13 17:18:15 [INFO] Processed: Chery Tiggo 7 Pro → links: 2, time: 29.99 s
+2025-05-13 17:18:15 [INFO] === END Chery Tiggo 7 Pro ===
+2025-05-13 17:18:15 [INFO] === START Chery Tiggo 8 Pro ===
+2025-05-13 17:18:44 [INFO] Processed: Chery Tiggo 8 Pro → links: 2, time: 28.41 s
+2025-05-13 17:18:44 [INFO] === END Chery Tiggo 8 Pro ===
+2025-05-13 17:18:44 [INFO] === START Omoda C5 ===
+2025-05-13 17:19:10 [INFO] Processed: Omoda C5 → links: 2, time: 26.56 s
+2025-05-13 17:19:10 [INFO] === END Omoda C5 ===
+2025-05-13 17:19:10 [INFO] === START Omoda S5 EV ===
+2025-05-13 17:19:13 [INFO] Processed: Omoda S5 EV → links: 0, time: 2.16 s
+2025-05-13 17:19:13 [INFO] === END Omoda S5 EV ===
+2025-05-13 17:19:13 [INFO] === START Omoda S5 GT ===
+2025-05-13 17:19:44 [INFO] Processed: Omoda S5 GT → links: 2, time: 31.13 s
+2025-05-13 17:19:44 [INFO] === END Omoda S5 GT ===
+2025-05-13 17:19:44 [INFO] === START Omoda S5 ===
+2025-05-13 17:20:10 [INFO] Processed: Omoda S5 → links: 2, time: 26.01 s
+2025-05-13 17:20:10 [INFO] === END Omoda S5 ===
+2025-05-13 17:20:10 [INFO] === START Omoda S5 GT EV ===
+2025-05-13 17:20:13 [INFO] Processed: Omoda S5 GT EV → links: 0, time: 3.30 s
+2025-05-13 17:20:13 [INFO] === END Omoda S5 GT EV ===
+2025-05-13 17:20:13 [INFO] === START Omoda C5 ===
