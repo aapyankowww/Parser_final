@@ -1391,3 +1391,91 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-05-13 17:20:13 [INFO] Processed: Omoda S5 GT EV → links: 0, time: 3.30 s
 2025-05-13 17:20:13 [INFO] === END Omoda S5 GT EV ===
 2025-05-13 17:20:13 [INFO] === START Omoda C5 ===
+2025-05-13 17:20:38 [INFO] Processed: Omoda C5 → links: 2, time: 25.26 s
+2025-05-13 17:20:38 [INFO] === END Omoda C5 ===
+2025-05-13 17:20:38 [INFO] === START Omoda C5 EV ===
+2025-05-13 17:21:08 [INFO] Processed: Omoda C5 EV → links: 2, time: 29.30 s
+2025-05-13 17:21:08 [INFO] === END Omoda C5 EV ===
+2025-05-13 17:21:08 [INFO] === START Exeed LX ===
+2025-05-13 17:21:34 [INFO] Processed: Exeed LX → links: 2, time: 25.94 s
+2025-05-13 17:21:34 [INFO] === END Exeed LX ===
+2025-05-13 17:21:34 [INFO] === START Geely Atlas ===
+2025-05-13 17:22:01 [INFO] Processed: Geely Atlas → links: 2, time: 27.52 s
+2025-05-13 17:22:01 [INFO] === END Geely Atlas ===
+2025-05-13 17:22:01 [INFO] === START Geely Monjaro ===
+2025-05-13 17:22:28 [INFO] Processed: Geely Monjaro → links: 2, time: 26.59 s
+2025-05-13 17:22:28 [INFO] === END Geely Monjaro ===
+2025-05-13 17:22:28 [INFO] === START VOYAH Dream ===
+2025-05-13 17:22:54 [INFO] Processed: VOYAH Dream → links: 2, time: 26.04 s
+2025-05-13 17:22:54 [INFO] === END VOYAH Dream ===
+2025-05-13 17:22:54 [INFO] === START GAC M8 ===
+2025-05-13 17:23:19 [INFO] Processed: GAC M8 → links: 2, time: 25.31 s
+2025-05-13 17:23:19 [INFO] === END GAC M8 ===
+2025-05-13 17:23:19 [INFO] === START Hongqi HQ9 ===
+2025-05-13 17:23:45 [INFO] Processed: Hongqi HQ9 → links: 2, time: 25.81 s
+2025-05-13 17:23:45 [INFO] === END Hongqi HQ9 ===
+2025-05-13 17:23:45 [INFO] === START Maxus V80 ===
+2025-05-13 17:23:47 [INFO] Processed: Maxus V80 → links: 0, time: 2.10 s
+2025-05-13 17:23:47 [INFO] === END Maxus V80 ===
+2025-05-13 17:23:47 [INFO] === START Maxus V90 ===
+2025-05-13 17:26:52 [INFO] Processed: Maxus V90 → links: 0, time: 185.02 s
+2025-05-13 17:26:52 [INFO] === END Maxus V90 ===
+2025-05-13 17:26:52 [INFO] === START Maxus G10 ===
+2025-05-13 17:27:18 [INFO] Processed: Maxus G10 → links: 2, time: 25.89 s
+2025-05-13 17:27:18 [INFO] === END Maxus G10 ===
+2025-05-13 17:27:18 [INFO] === START Dongfeng Captain-T S1 ===
+2025-05-13 17:27:50 [INFO] Processed: Dongfeng Captain-T S1 → links: 0, time: 31.87 s
+2025-05-13 17:27:50 [INFO] === END Dongfeng Captain-T S1 ===
+2025-05-13 17:27:50 [INFO] === START JAC N-56 ===
+2025-05-13 17:28:16 [INFO] Processed: JAC N-56 → links: 2, time: 26.52 s
+2025-05-13 17:28:16 [INFO] === END JAC N-56 ===
+2025-05-13 17:28:16 [INFO] === START Dongfeng K-Series ===
+2025-05-13 17:28:40 [INFO] Processed: Dongfeng K-Series → links: 2, time: 23.59 s
+2025-05-13 17:28:40 [INFO] === END Dongfeng K-Series ===
+2025-05-13 17:28:40 [INFO] === START Foton Toano ===
+2025-05-13 17:29:03 [INFO] Processed: Foton Toano → links: 2, time: 23.38 s
+2025-05-13 17:29:03 [INFO] === END Foton Toano ===
+2025-05-13 17:29:03 [INFO] === START JAC N-90 ===
+2025-05-13 17:29:29 [INFO] Processed: JAC N-90 → links: 2, time: 25.72 s
+2025-05-13 17:29:29 [INFO] === END JAC N-90 ===
+2025-05-13 17:29:29 [INFO] === START JAC N-120 ===
+2025-05-13 17:29:52 [INFO] Processed: JAC N-120 → links: 2, time: 22.91 s
+2025-05-13 17:29:52 [INFO] === END JAC N-120 ===
+2025-05-13 17:29:52 [INFO] === START SITRAK C7H ===
+2025-05-13 17:30:19 [INFO] Processed: SITRAK C7H → links: 2, time: 26.92 s
+2025-05-13 17:30:19 [INFO] === END SITRAK C7H ===
+2025-05-13 17:30:19 [INFO] === START Shacman SX3258 ===
+2025-05-13 17:30:46 [INFO] Processed: Shacman SX3258 → links: 2, time: 26.97 s
+2025-05-13 17:30:46 [INFO] === END Shacman SX3258 ===
+2025-05-13 17:30:46 [INFO] === START Shacman SX3318 ===
+2025-05-13 17:31:10 [INFO] Processed: Shacman SX3318 → links: 2, time: 24.58 s
+2025-05-13 17:31:10 [INFO] === END Shacman SX3318 ===
+2025-05-13 17:31:10 [INFO] === START JAC N-350 ===
+2025-05-13 17:31:37 [INFO] Processed: JAC N-350 → links: 2, time: 27.10 s
+2025-05-13 17:31:37 [INFO] === END JAC N-350 ===
+2025-05-13 17:31:37 [INFO] === START Howo 3327 ===
+2025-05-13 17:32:04 [INFO] Processed: Howo 3327 → links: 2, time: 26.23 s
+2025-05-13 17:32:04 [INFO] === END Howo 3327 ===
+2025-05-13 17:32:04 [INFO] === START Howo 3407 ===
+2025-05-13 17:32:43 [INFO] Processed: Howo 3407 → links: 2, time: 39.29 s
+2025-05-13 17:32:43 [INFO] === END Howo 3407 ===
+2025-05-13 17:32:43 [INFO] === START FAW CA3250 ===
+2025-05-13 17:33:38 [INFO] Processed: FAW CA3250 → links: 2, time: 55.55 s
+2025-05-13 17:33:38 [INFO] === END FAW CA3250 ===
+2025-05-13 17:33:38 [INFO] === START VOYAH Dream ===
+2025-05-13 17:33:41 [INFO] Processed: VOYAH Dream → links: 0, time: 2.91 s
+2025-05-13 17:33:41 [INFO] === END VOYAH Dream ===
+2025-05-13 17:33:41 [INFO] === START GAC M8 ===
+2025-05-13 17:33:45 [INFO] Processed: GAC M8 → links: 0, time: 3.27 s
+2025-05-13 17:33:45 [INFO] === END GAC M8 ===
+2025-05-13 17:33:45 [INFO] === START Hongqi HQ9 ===
+2025-05-13 17:34:02 [INFO] Processed: Hongqi HQ9 → links: 0, time: 17.36 s
+2025-05-13 17:34:02 [INFO] === END Hongqi HQ9 ===
+2025-05-13 17:34:02 [INFO] === START Maxus V80 ===
+2025-05-13 17:36:51 [INFO] Processed: Maxus V80 → links: 1, time: 169.13 s
+2025-05-13 17:36:51 [INFO] === END Maxus V80 ===
+2025-05-13 17:36:51 [INFO] === START Maxus V90 ===
+2025-05-13 17:39:51 [INFO] Processed: Maxus V90 → links: 0, time: 179.47 s
+2025-05-13 17:39:51 [INFO] === END Maxus V90 ===
+2025-05-13 17:39:51 [INFO] === AGENT END ===
+2025-05-13 17:39:51 [INFO] Models processed: 32, total time: 1744.29 s
