@@ -221,7 +221,7 @@ async def main():
 
         for row in rows:
             url = row['link'].strip()
-            llm = ChatOllama(model='qwen2.5-coder:7b', num_ctx=6000, temperature=0.2, keep_alive=0)
+            llm = ChatOllama(model='hf.co/unsloth/Qwen3-8B-GGUF:Q6_K', num_ctx=6000, temperature=0.2, keep_alive=0)
 
             try:
                 async with asyncio.timeout(5*TIMEOUT):
@@ -275,6 +275,7 @@ async def main():
 
             except Exception as e:
                 logger.error(f'Ошибка при обработке {url}:\n {e}')
+                await asyncio.sleep(120)
             finally:
                 try:
                     await page.close()

@@ -7,6 +7,7 @@ import time
 from pathlib import Path
 import keyboard
 from playwright.sync_api import sync_playwright, TimeoutError
+from playwright_stealth import stealth_sync
 from tabulate import tabulate
 from tqdm import tqdm
 
@@ -20,12 +21,7 @@ STORAGE_FILE = 'storage_state.json'
 MAX_PAGES = 20
 BATCH_SIZE = 50
 VIEWPORT = {'width': 1366, 'height': 768}
-USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/114.0.5735.199 Safari/537.36"
-)
-
+AGENTS_FILE = 'user_agents.csv'
 Path("logs").mkdir(parents=True, exist_ok=True)
 formatter = logging.Formatter(
     fmt='%(asctime)s [%(levelname)s] %(message)s',
@@ -264,6 +260,13 @@ def generate_search_urls_truck(site: str) -> list[tuple[str, str]]:
         urls.append((base + q, f"{row['brand']} {row['model']}"))
     return urls
 
+def check_model(name, batch):
+    checked = []
+    for link in batch:
+        if name.lower().replace(' ', '_') in link:
+            checked.append(link)
+    return checked
+
 def process_target(page, base_url, name, known, limit, processed):
     site = detect_site(base_url)
     param = get_pagination_param(site)
@@ -293,6 +296,7 @@ def process_target(page, base_url, name, known, limit, processed):
             batch, esc = scroll_and_collect(
                 page, site, collected, known, pbar, limit
             )
+            batch = check_model(name, batch)
             buffer.extend(batch)
             if esc:
                 break
@@ -315,12 +319,16 @@ def process_target(page, base_url, name, known, limit, processed):
     log_section(f"END {name or base_url}")
 
 
-def main(mode='csv', n_links = 10, max_links=100, site='avito' ):
+def main(mode='csv', n_links = 10, max_links=100, site='avito'):
     log_section("AGENT START")
     overall_start = time.time()
     processed_counts = {}
     known_links = load_existing_links()
 
+    with open(AGENTS_FILE, encoding='utf-8') as f:
+        reader = csv.reader(f, delimiter='\t')
+        agents = [row[0] for row in reader]
+    USER_AGENT = random.choice(agents)
     # Режим 4: логин и сохранение куки
     if mode == 'debug':
         with sync_playwright() as p:
@@ -333,6 +341,8 @@ def main(mode='csv', n_links = 10, max_links=100, site='avito' ):
                 locale='ru-RU'
             )
             page = ctx.new_page()
+            stealth_sync(page)
+
             print(
                 "\n▶ Откройте сайт, авторизуйтесь, "
                 "нажмите Enter в консоли…"
