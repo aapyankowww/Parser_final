@@ -2,6 +2,7 @@ import link_extr
 import argparse
 import processor
 import yolo
+import asyncio
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Сбор ссылок с Avito и Auto.ru"
@@ -39,7 +40,7 @@ def main():
     if queue == 'extr':
         link_extr.main(mode=mode, n_links=n_links, max_links=max_links)
     elif queue == 'proc':
-        processor.main()
+        asyncio.run(processor.main())
     elif queue == 'yolo':
         yolo.main()
     elif queue == 'full':

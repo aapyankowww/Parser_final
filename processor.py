@@ -19,7 +19,7 @@ logger = logging.getLogger()
 AGENTS_FILE = 'user_agents.csv'
 ROOT_DIR = 'photos'
 LINKS_CSV = 'links.csv'
-TIMEOUT = 70
+TIMEOUT = 100
 BODY_CANON = {
     'sedan': ('седан', 'sedan'),
     'hatchback': ('хэтчбек', 'хетчбек', 'hatchback', 'хэтчбек 5-дверный', 'хетчбек 5 дв.',
@@ -224,53 +224,54 @@ async def main():
             llm = ChatOllama(model='qwen2.5-coder:7b', num_ctx=6000, temperature=0.2, keep_alive=0)
 
             try:
-                page = await context.get_current_page()
-                await page.add_init_script('window.open = () => null;')
-                page.on("dialog", lambda dialog: asyncio.create_task(dialog.dismiss()))
+                async with asyncio.timeout(5*TIMEOUT):
+                    page = await context.get_current_page()
+                    await page.add_init_script('window.open = () => null;')
+                    page.on("dialog", lambda dialog: asyncio.create_task(dialog.dismiss()))
 
-                await page.context.grant_permissions(['geolocation'])
-                with open('cookies.json', encoding='utf-8') as f:
-                    cookies = json.load(f)
-                await page.context.add_cookies(cookies)
-                await page.context.set_geolocation({'latitude': 59.960986, 'longitude': 30.284703})
+                    await page.context.grant_permissions(['geolocation'])
+                    with open('cookies.json', encoding='utf-8') as f:
+                        cookies = json.load(f)
+                    await page.context.add_cookies(cookies)
+                    await page.context.set_geolocation({'latitude': 59.960986, 'longitude': 30.284703})
 
-                response = await page.goto(url, timeout=0)
-                if not response or response.status != 200:
-                    if (response.status == 429) or (response.status == 302):
-                        browser, context, controller = await rotate_session(browser, context)
-                        continue
-                    mark_err(url)
-                    raise RuntimeError(
-                        f'Неверный URL {url}: статус {response.status if response else "no response"}'
+                    response = await page.goto(url, timeout=0)
+                    if not response or response.status != 200:
+                        if (response.status == 429) or (response.status == 302):
+                            browser, context, controller = await rotate_session(browser, context)
+                            continue
+                        mark_err(url)
+                        raise RuntimeError(
+                            f'Неверный URL {url}: статус {response.status if response else "no response"}'
+                        )
+
+                    agent = Agent(
+                        task=PROMPT,
+                        llm=llm,
+                        browser_context=context,
+                        controller=controller,
+                        enable_memory=False,
+                        max_actions_per_step=5,
+                        use_vision=True,
+                        max_failures=1
                     )
 
-                agent = Agent(
-                    task=PROMPT,
-                    llm=llm,
-                    browser_context=context,
-                    controller=controller,
-                    enable_memory=False,
-                    max_actions_per_step=5,
-                    use_vision=True,
-                    max_failures=1
-                )
+                    history = await agent.run(max_steps=4)
+                    result = json.loads(history.final_result())
+                    body, brand, model = result['body_type'], result['brand'], result['model']
 
-                history = await agent.run(max_steps=4)
-                result = json.loads(history.final_result())
-                body, brand, model = result['body_type'], result['brand'], result['model']
+                    if not all([body, brand, model]):
+                        raise ValueError(f'Пустые поля: {result}')
 
-                if not all([body, brand, model]):
-                    raise ValueError(f'Пустые поля: {result}')
+                    body_c = BODY_LU.get(body.lower(), 'other')
+                    brand_c = re.sub(r'\s+', '_', brand.strip().lower())
+                    model_c = re.sub(r'\s+', '_', model.strip().lower())
+                    logger.info(
+                        f"LLM step has been finished with URL={page.url}, "
+                        f"body={body_c}, brand={brand_c}, model={model_c}"
+                    )
 
-                body_c = BODY_LU.get(body.lower(), 'other')
-                brand_c = re.sub(r'\s+', '_', brand.strip().lower())
-                model_c = re.sub(r'\s+', '_', model.strip().lower())
-                logger.info(
-                    f"LLM step has been finished with URL={page.url}, "
-                    f"body={body_c}, brand={brand_c}, model={model_c}"
-                )
-
-                await photo_load(page, url, body_c, brand_c, model_c)
+                    await photo_load(page, url, body_c, brand_c, model_c)
 
             except Exception as e:
                 logger.error(f'Ошибка при обработке {url}:\n {e}')
